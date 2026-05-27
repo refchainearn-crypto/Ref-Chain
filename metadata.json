@@ -1,0 +1,6 @@
+{
+  "name": "RefChain",
+  "description": "Modern, premium fintech-grade referral rewards platform centering security, real-time analytics, and automated multi-level commissions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
